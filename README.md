@@ -19,21 +19,18 @@ Data Sources:
 The data for this dashboard is sourced from reliable cricket statistics repositories, including official cricket boards, cricketing websites, and credible sports databases. It encompasses a comprehensive range of matches played by Virat Kohli from 2008 to 2022.
 
 Technologies Used:
-Programming Language: Python
-Data Analysis Libraries: Pandas, NumPy
-Data Visualization Libraries: Matplotlib, Seaborn, Plotly
-Data Visualization application: Microsoft Power BI
+   
+   1. Programming Language: Python
 
-Usage:
-Clone or download the repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
-Run the Microsoft Bower bi Software.
-Open your web browser and navigate to the specified localhost address.
-Explore the dashboard to analyze Virat Kohli's performance over the years.
+   2. Data Analysis Libraries: Pandas, NumPy
+   
+   3. Data Visualization Libraries: Matplotlib, Seaborn, Plotly
+   
+   4. Data Visualization application: Microsoft Power BI
+
 
 Contributions:
 Contributions to this project are welcome! If you find any issues, have suggestions for improvements, or want to add new features, feel free to open an issue or create a pull request.
 
 Credits:
-This project is developed and maintained by [Akshat Gupta/guptaakshat2002]. Special thanks to the contributors and data providers who made this project possible.
-
+This project is developed and maintained by [Akshat Gupta/guptaakshat2002].
